@@ -6,8 +6,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+<p align="center">  [![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</p>
 <!--
 **gabriel-guerreiro/gabriel-guerreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
