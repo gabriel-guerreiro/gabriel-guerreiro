@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### Hi there 👋
+<div align="center"><h1> Hi there 👋 </h2> </div>
 
 ---
 <div align="center">
-### :fire: My Stats :
+:fire: My Stats :
 </div>
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a>
 <!--
