@@ -18,7 +18,7 @@
     <tr>
       <td align="center">
         <strong>
-          <em>Linguagens</em>
+          <em>Languages</em>
         </strong>
       </td>
       <td width="80px" align="center">
