@@ -1,17 +1,19 @@
-<div id="header" align="center">
+<div id="header" align="center" style="padding: 10px;">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
 </div>
-<div align="center"><h2> Hi there 👋 </h2> </div>
+
+<div align="center"><h2> Hi there 👋 </h2></div>
 
 ---
 <div>
   <h2>:fire: My Stats :</h2>
 </div>
-</a>
+
 <div align="left">
-<p> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-guerreiro&theme=dracula"/></p>
-</a>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a></p>
+
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-guerreiro&theme=dracula"/></a></p>
+
   <table>
   <tbody>
     <tr>
