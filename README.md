@@ -4,14 +4,14 @@
 <div align="center"><h2> Hi there 👋 </h2> </div>
 
 ---
-<div align="right">
+<div align="left">
   <h2>:fire: My Stats :</h2>
 </div>
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+<p align="left"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-guerreiro&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 </a>
 <div align="left">
   
-<p align="center"<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-guerreiro&theme=dracula"/></p>
+<p align="right"<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-guerreiro&theme=dracula"/></p>
 </a>
   <table>
   <tbody>
