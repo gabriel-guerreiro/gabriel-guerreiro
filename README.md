@@ -12,6 +12,79 @@
   
 <p align="center"<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-guerreiro&theme=dracula"/></p>
 </a>
+<div align="left">
+  <table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <strong>
+          <em>Linguagens</em>
+        </strong>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>HTML</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>CSS</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Javascript</strong></span><br>
+        <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr >
+      <td align="center">
+        <strong>
+          <em>FrameWorks</em>
+        </strong>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>React</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Jest</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>RTL</strong></span><br>
+        <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Redux</strong></span><br>
+        <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+      </td>
+    </tr>
+    <tr >
+      <td align="center">
+        <strong>
+          <em>Tools</em>
+        </strong>
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Git</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>GitHub</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Figma</strong></span><br>
+        <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+      </td>
+       <td width="80px" align="center">
+        <span><strong>NPM</strong></span><br>
+        <img height="32px" src="https://cdn.cdnlogo.com/logos/n/45/npm.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 <!--
 **gabriel-guerreiro/gabriel-guerreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
